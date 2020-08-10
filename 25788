@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Google</title>
+
+<link rel="icon" href="https://www.google.com/images/branding/product/1x/gsa_android_144dp.png"type="image/png">
+
+</head>
+
+<body>
+
+<b>this is bold text</b>
+<br>
+<small>This is small text</small>
+<br>
+
+<mark> this is mark text</mark>
+<br>
+<b>H<sub>2</sub>o</b>
+<br>
+a<sup>2</sup>
+<br>
+
+<a href="http://google.com">Google</a>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC2IoPnd1hT6SQkv1TwtYLCpw977f0GyrZTw&usqp=CAU"
+alt="car "/>
+
+<img src="file:///sdcard/Download/download.jpeg"/>
+<br>
+<i>This is italic text</i>
+<u>This is underline text</u>
+
+<a href="http://Google.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC2IoPnd1hT6SQkv1TwtYLCpw977f0GyrZTw&usqp=CAU">
+</a>
+
+</body>
+
+</httml>
